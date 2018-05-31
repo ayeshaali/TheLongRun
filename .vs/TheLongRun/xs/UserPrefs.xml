@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7DA2FCED-3DB2-1B55-17FF-4880439F20A5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Multi/Runner2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Multi/GameEventManager.cs" Line="4" Column="5" />
+      <File FileName="Assets/Scripts/Multi/GUIManager.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/Multi/PlatformManager.cs" Line="6" Column="46" />
+      <File FileName="Assets/Scripts/Multi/SkylineManager.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/Multi/Runner.cs" Line="55" Column="11" />
+      <File FileName="Assets/Scripts/Multi/Runner2.cs" Line="65" Column="54" />
+      <File FileName="Assets/Scripts/Single/GUIManagerS.cs" Line="28" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
