@@ -15,7 +15,7 @@ public class Control : MonoBehaviour
 
     public void Levels()
     {
-        SceneManager.LoadScene("levels");
+        SceneManager.LoadScene("Level_Select");
     }
 
     public void title()
